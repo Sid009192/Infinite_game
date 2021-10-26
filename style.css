@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: coral;
+}
+canvas {
+  display: block;
+  margin-top: 120px;
+  border-color: rgb(12, 230, 139);
+  border-radius: 100px;
+  border-width:10px;
+  border-style:solid;
+}
